@@ -103,7 +103,7 @@ const SobreMi = () => {
                 <div className="text-center space-y-4">
                   <div className="w-24 h-24 rounded-full bg-accent-primary/20 flex items-center justify-center mx-auto overflow-hidden border-2 border-accent-primary/50">
                     <img 
-                      src="/src/assets/perfil.png" 
+                      src="/assets/perfil.png" 
                       alt="Juan Cruz Bini - Ranel Web"
                       className="w-full h-full object-cover"
                     />
