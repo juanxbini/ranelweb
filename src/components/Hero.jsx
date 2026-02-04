@@ -52,8 +52,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-text-secondary mb-12 max-w-3xl mx-auto leading-relaxed"
           >
-            Diseño y desarrollo de sitios web que comunican tu valor profesional 
-            y generan confianza desde el primer contacto.
+            Mostrá tu trabajo con una web profesional que inspire confianza.
           </motion.p>
 
           {/* CTA buttons */}
