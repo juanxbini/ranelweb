@@ -3,35 +3,35 @@
     "id": 1,
     "nombre": "Stoessel Inmobiliaria",
     "descripcion": "Landing page para inmobiliaria.",
-    "imagen": "/projects/inmobiliaria.png",
+    "imagen": "/assets/projects/inmobiliaria.png",
     "enlace": "https://landing-stoessel.vercel.app/"
   },
   {
     "id": 2,
     "nombre": "E-commerce Local",
     "descripcion": "Tienda online para negocio local con catálogo de productos y sistema de pagos integrado.",
-    "imagen": "/projects/ecommerce-local.jpg",
+    "imagen": "/assets/projects/ecommerce-local.jpg",
     "enlace": "https://ejemplo.com"
   },
   {
     "id": 3,
     "nombre": "Landing Corporativa",
     "descripcion": "Página de presentación para empresa tecnológica con sección de servicios y contacto.",
-    "imagen": "/projects/landing-corporativa.jpg",
+    "imagen": "/assets/projects/landing-corporativa.jpg",
     "enlace": "https://ejemplo.com"
   },
   {
     "id": 4,
     "nombre": "Blog Profesional",
     "descripcion": "Plataforma de blogging para experto en marketing con sistema de categorías y búsqueda.",
-    "imagen": "/projects/blog-profesional.jpg",
+    "imagen": "/assets/projects/blog-profesional.jpg",
     "enlace": "https://ejemplo.com"
   },
   {
     "id": 5,
     "nombre": "App de Reservas",
     "descripcion": "Sistema de reservas online para restaurante con calendario y gestión de mesas.",
-    "imagen": "/projects/app-reservas.jpg",
+    "imagen": "/assets/projects/app-reservas.jpg",
     "enlace": "https://ejemplo.com"
   }
 ]
