@@ -33,7 +33,7 @@ const Hero = () => {
             <span className="text-sm text-text-secondary">Sitios web para profesionales independientes</span>
           </motion.div>
 
-          {/* Main headline */}
+          {/* Main headline - SEO optimized H1 */}
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}

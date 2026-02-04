@@ -70,10 +70,16 @@ const Servicios = () => {
           transition={{ duration: 0.8 }}
           className="text-center mb-20"
         >
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
+          <motion.h2
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-100px" }}
+            transition={{ duration: 0.8 }}
+            className="text-4xl md:text-5xl font-bold mb-6"
+          >
             Servicios
             <span className="text-gradient"> Profesionales</span>
-          </h2>
+          </motion.h2>
           <p className="text-xl text-text-secondary max-w-3xl mx-auto leading-relaxed">
             Cada proyecto es una oportunidad para crear algo único y memorable.
             Combino diseño, tecnología y estrategia para resultados excepcionales.
